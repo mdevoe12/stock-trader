@@ -1,5 +1,7 @@
 <template lang="">
-  <h1>Portfolio / Portfolio Component</h1>
+  <div>
+    
+  </div>
 </template>
 
 <script>
